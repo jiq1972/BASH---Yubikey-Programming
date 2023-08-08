@@ -1,0 +1,2 @@
+Automatic ykman update
+Automatic ykman install if not installed
